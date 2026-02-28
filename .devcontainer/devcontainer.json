@@ -12,7 +12,8 @@
     "vscode": {
       "extensions": [
         "hverlin.mise-vscode",
-        "tamasfe.even-better-toml"
+        "tamasfe.even-better-toml",
+        "sst-dev.opencode"
       ]
     }
   },
