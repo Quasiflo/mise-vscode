@@ -7,4 +7,7 @@ cat >> ~/.zshrc << 'EOF'
 eval "$(mise activate zsh)" # Enables Mise in shells
 EOF
 
+echo "Installing Mise Global Tools ..."
+mise use -g opencode@latest
+
 echo "Post-create setup finished."
