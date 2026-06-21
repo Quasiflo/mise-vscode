@@ -3,7 +3,7 @@
   "displayName": "Mise VSCode",
   "publisher": "hverlin",
   "description": "mise support for Visual Studio code  (dev-tools, tasks and environment variables)",
-  "version": "1.10.0",
+  "version": "1.11.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/hverlin/mise-vscode"
@@ -217,7 +217,15 @@
               "biomejs.biome",
               "oxc.oxc-vscode",
               "bazelbuild.vscode-bazel",
-              "swiftlang.swift-vscode"
+              "swiftlang.swift-vscode",
+              "Pkl.pkl-vscode",
+              "exiasr.hadolint",
+              "astral-sh.ty",
+              "tombi-toml.tombi",
+              "foxundermoon.shell-format",
+              "sumneko.lua",
+              "twxs.cmake",
+              "ms-dotnettools.vscode-dotnet-runtime"
             ]
           },
           "markdownDescription": "List of extensions that should not be configured automatically."
@@ -256,7 +264,15 @@
               "biomejs.biome",
               "oxc.oxc-vscode",
               "bazelbuild.vscode-bazel",
-              "swiftlang.swift-vscode"
+              "swiftlang.swift-vscode",
+              "Pkl.pkl-vscode",
+              "exiasr.hadolint",
+              "astral-sh.ty",
+              "tombi-toml.tombi",
+              "foxundermoon.shell-format",
+              "sumneko.lua",
+              "twxs.cmake",
+              "ms-dotnettools.vscode-dotnet-runtime"
             ]
           },
           "markdownDescription": "List of extensions that should be configured automatically. If both include and ignore lists are set, the ignore list takes precedence. If the include list includes 'all' (default), all supported extensions are considered except those in the ignore list."
